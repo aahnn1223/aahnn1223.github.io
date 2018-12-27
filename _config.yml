@@ -14,7 +14,7 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-remote_theme             : mmistakes/minimal-mistakes
+#remote_theme             : mmistakes/minimal-mistakes
 title                    : "Semicolon"
 description              : "Good end"
 url                      : "https://aahnn1223.github.io"
@@ -27,7 +27,7 @@ locale                   : "en-US"
 
 title_separator          : "-"
 name                     : "Your Name"
-repository               : "aahnn1223/aahnn1223.github.io"
+#repository               : "aahnn1223/aahnn1223.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

@@ -14,7 +14,7 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-remote_theme             : "mmistakes/minimal-mistakes"
+remote_theme             : mmistakes/minimal-mistakes
 title                    : "Semicolon"
 description              : "Good end"
 url                      : "https://aahnn1223.github.io"

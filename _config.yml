@@ -18,7 +18,7 @@ remote_theme             : "mmistakes/minimal-mistakes"
 title                    : "Semicolon"
 description              : "Good end"
 url                      : "https://aahnn1223.github.io"
-baseurl                  : "/ssafyblog"
+baseurl                  : ""
 
 
 
